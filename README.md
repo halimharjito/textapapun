@@ -1,6 +1,4 @@
-# textapapun
-
-LINK PRE-INSTALL HACKINTOSH  
+##  LINK PRE-INSTALL HACKINTOSH  
 
 PYTHON FOR WINDOWS: https://www.python.org/downloads/  
 
@@ -15,3 +13,13 @@ PROPERTREE: https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip
 GEN SMBIOS: https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip  
 
 EFI UNIVERSAL MSI GF63: https://drive.google.com/file/d/1KdpWKeHAA7wg-u_Oq4vt3kkR4an195u9/view?usp=sharing  
+
+## LINK POST-INSTALL HACKINTOSH  
+
+HACKINTOOL: https://github.com/benbaker76/Hackintool/releases/download/4.1.5/Hackintool.zip  
+
+OPENCORE CONFIGURATOR: https://mackie100projects.altervista.org/download-opencore-configurator/  
+
+PROPERTREE: https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip  
+
+GEN SMBIOS: https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip  
