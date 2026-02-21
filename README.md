@@ -23,3 +23,5 @@ OPENCORE CONFIGURATOR: https://mackie100projects.altervista.org/download-opencor
 PROPERTREE: https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip  
 
 GEN SMBIOS: https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip  
+
+framebuffer-con1-alldata    01040A00 00080000 87010000
